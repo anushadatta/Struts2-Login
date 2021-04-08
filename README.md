@@ -6,7 +6,7 @@ Username: anushadatta
 
 Password: test123
 
-* Run SQL Scripts* 
+<b> Run SQL Scripts </b>
 
 ```
 > mysql -u root -p
@@ -14,7 +14,7 @@ Password: test123
 > (Copy/Paste cz3002.sql)
 ```
 
-*Run Java Code*
+<b> Run Java Code </b>
 ```
 > mvn jetty:run
 ```
