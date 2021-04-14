@@ -19,4 +19,4 @@ Password: test123
 > mvn jetty:run
 ```
 
-Access at web browser URL: https://localhost:8080/LoginStruts2/index.action
+Access at web browser URL: http://localhost:8080/LoginStruts2/index.action
